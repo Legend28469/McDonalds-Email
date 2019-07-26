@@ -1,0 +1,269 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css?family=Roboto:400,700" />
+
+    <mj-preview>
+      Don't sweat it
+    </mj-preview>
+
+    <mj-attributes>
+      <mj-all font-size="16px" font-family="Roboto, RobotoDraft, Helvetica, Arial, sans-serif" padding="0" />
+    </mj-attributes>
+
+    <mj-style>
+      .social {
+        width: 40px;
+      }
+
+      .last-space {
+        text-align: center;
+      }
+
+      .smaller {
+        font-size: 12px;
+      }
+
+      @media (min-width:480px) {
+        .social {
+          width: 58px;
+        }
+
+        .smaller {
+          font-size: 16px;
+        }
+
+        .linkspacer {
+          padding-left: 125px;
+        }
+
+        .last-space {
+          text-align: left;
+        }
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <!-- My MCDs Logo -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.imgur.com/bOsGRe3.jpg" width="216px" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bar -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.imgur.com/fVqYewR.jpg" width="600px" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Bring on the heat img -->
+    <mj-section padding-bottom="25px">
+      <mj-column>
+        <mj-image src="https://i.imgur.com/At5yPoj.jpg" width="600px" alt="" fluid-on-mobile="true" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Reese img -->
+    <mj-section>
+      <mj-column padding-bottom="0px" padding-right="0px" width="295px">
+        <mj-image src="https://i.imgur.com/DGUziwm.jpg" height="380px" alt="" fluid-on-mobile="true" />
+      </mj-column>
+
+      <mj-column width="10px">
+
+      </mj-column>
+
+      <mj-column background-color="#da1f26" width="295px">
+        <mj-text font-size="26px" line-height="28px" font-weight="700" padding="57px 25px 0 25px" color="#ffffff">
+          One spoon. One Reese’s Pieces McFlurry®.
+        </mj-text>
+
+        <mj-text color="#ffffff" padding="10px 30px 10px 25px" line-height="18px" font-family="Arial,Helvetica,sans-serif">
+          It’s cold, crunchy, and you’re gonna want it all to yourself. That’s right, we’re talking about the Mini Reese’s Pieces McFlurry®.
+        </mj-text>
+
+        <mj-button background-color="#ffc836" color="#000000" align="left" padding="10px 25px" height="48px">
+          Get it now
+        </mj-button>
+
+        <mj-text color="#ffffff" padding="10px 25px 27px" font-size="8px" font-family="Arial,Helvetica,sans-serif">
+          At participating McDonald’s restaurants® in Canada. For a limited time only. MINI REESE’S PIECES trademark and trade dress and the orange colour are used under license.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Wrap img -->
+    <mj-section direction="rtl" padding-top="25px">
+      <mj-column width="295px">
+        <mj-image src="https://i.imgur.com/X1xTxJB.jpg" height="380px" width="300px" alt="" fluid-on-mobile="true" />
+      </mj-column>
+
+      <mj-column width="10px">
+
+      </mj-column>
+
+      <mj-column background-color="#137001" width="295px">
+        <mj-text font-size="26px" line-height="28px" font-weight="700" padding="79px 40px 0" color="#ffffff">
+          Just wrapped.
+        </mj-text>
+
+        <mj-text color="#ffffff" padding="10px 40px" line-height="18px" font-family="Arial,Helvetica,sans-serif">
+          Take home one or try all<br /> three of our freshly <br /> prepared McWraps! Try Chicken & Bacon, Cajun<br /> or our new Caesar<br /> McWrap®.
+        </mj-text>
+
+        <mj-button background-color="#ffc836" color="#000000" align="left" padding="10px 40px 45px">
+          Take your pick
+        </mj-button>
+
+        <mj-text color="#ffffff" padding="20px 40px 15px" font-size="8px" font-family="Arial,Helvetica,sans-serif">
+          At participating McDonald’s restaurants® in Canada.
+          Product availability varies by restaurant
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Truck img -->
+    <mj-section padding-top="25px">
+      <mj-column padding-bottom="0px" width="295px">
+        <mj-image src="https://i.imgur.com/YvV1cAZ.jpg" height="380px" alt="" fluid-on-mobile="true" />
+      </mj-column>
+
+      <mj-column width="10px">
+
+      </mj-column>
+
+      <mj-column background-color="#c8e3f9" width="295px">
+        <mj-text font-size="26px" line-height="28px" font-weight="700" padding="25px 25px 0 25px" color="#000000">
+          Chance of McFlurries
+        </mj-text>
+
+        <mj-text color="#000000" padding="10px 30px 10px 25px" line-height="18px" font-family="Arial,Helvetica,sans-serif">
+          The McFlurry® Truck could be coming to you. This summer we’ll be driving across Canada and we want to be at your event... whatever it is. Follow us on social media and tell us why we should come to you. Only until July 21st (11:59 PM).
+        </mj-text>
+
+        <mj-text padding="10px 25px">
+          <img src="https://i.imgur.com/tWjVsq9.jpg" alt="" width="40px" style="vertical-align: middle;" />
+          <img src="https://i.imgur.com/vKfp2PI.jpg" alt="" width="40px" style="vertical-align: middle;" />
+          <img src="https://i.imgur.com/MY3yFkQ.jpg" alt="" width="40px" style="vertical-align: middle;" />
+          <span style="font-weight: 700">#McFlurryTruck</span>
+        </mj-text>
+
+        <mj-text color="#000000" padding="19px 25px 23px" font-size="8px" font-family="Arial,Helvetica,sans-serif">
+          *Subject to event requirements. Must be age of majority resident of Canada (excluding Northwest Territories, Nunavut and Yukon).
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="75px" />
+        <mj-divider border-width="1px" width="480px" />
+        <mj-image src="https://i.imgur.com/A6S9gAQ.jpg" alt="" width="326px" padding="25px 0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-group>
+        <mj-column padding-left="45%">
+          <mj-image src="https://i.imgur.com/qZeUObu.jpg" alt="" width="118px" height="40px" />
+        </mj-column>
+
+        <mj-column padding-bottom="50px" padding-right="45%">
+          <mj-image src="https://i.imgur.com/cvt4COS.jpg" alt="" width="118px" height="40px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding-bottom="60px">
+        <mj-divider border-width="1px" width="480px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding-bottom="30px">
+        <mj-text align="center">
+          <img src="https://i.imgur.com/ZpbUSbP.jpg" class="social" alt="" />
+
+          <img src="https://i.imgur.com/ytSQTPc.jpg" alt="" style="width: 9px; height: 40px;" />
+
+          <img src="https://i.imgur.com/ho9e5kE.jpg" class="social" alt="" />
+
+          <img src="https://i.imgur.com/ytSQTPc.jpg" alt="" style="width: 9px; height: 40px;" />
+
+          <img src="https://i.imgur.com/F10SI6X.jpg" class="social" alt="" />
+
+          <img src="https://i.imgur.com/ytSQTPc.jpg" alt="" style="width: 9px; height: 40px;" />
+
+          <img src="https://i.imgur.com/ziPcB8t.jpg" class="social" alt="" />
+
+          <img src="https://i.imgur.com/ytSQTPc.jpg" alt="" style="width: 9px; height: 40px;" />
+
+          <img src="https://i.imgur.com/2cMvcny.jpg" class="social" alt="" />
+
+          <img src="https://i.imgur.com/ytSQTPc.jpg" alt="" style="width: 9px; height: 40px;" />
+
+          <img src="https://i.imgur.com/hfpAJVE.jpg" class="social" alt="" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="linkspacer">
+      <mj-group>
+        <mj-column padding-left="10px">
+          <mj-text font-family="impact,trebuchet ms,arial,sans serif" css-class="smaller">
+            CORPORATE
+          </mj-text>
+        </mj-column>
+
+        <mj-column padding-left="10px">
+          <mj-text font-family="impact,trebuchet ms,arial,sans serif" css-class="smaller">
+            PRIVACY
+          </mj-text>
+        </mj-column>
+
+        <mj-column>
+          <mj-text font-family="impact,trebuchet ms,arial,sans serif" css-class="smaller">
+            TERMS & CONDITIONS
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-column>
+        <mj-text font-family="impact,trebuchet ms,arial,sans serif" css-class="last-space smaller">
+          UNSUBSCRIBE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="10px 0 50px">
+        <mj-image src="https://i.imgur.com/fVqYewR.jpg" width="600px" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="90%">
+        <mj-text font-size="12px" font-family="Arial, sans-serif" color="#515151">
+          © 2019 McDonald’s.<br />
+          All Rights Reserved.<br /><br />
+
+          You are receiving this email as you have opted in to receive email communications from McDonald’s Canada. Was this email forwarded to you? <a href="#" style="color: red;">Subscribe</a> to receive email communications from<br /> McDonald’s Canada.<br /><br />
+
+          To ensure delivery to your inbox, please add <a href="#" style="color: red;">McDonaldsCanada@e.mcdonalds.ca</a><br />
+          to your safe sender list or address book. Having trouble viewing this email? <a href="#" style="color: red;">Click Here.</a><br /><br />
+
+          Have questions? <a href="#" style="color: red;">Contact us online</a> or call us at 1-888-424-4622.<br /><br />
+
+          McDonald’s Restaurants of Canada Limited<br />
+          Guest Contact Centre<br />
+          P.O. Box 61023<br />
+          Winnipeg, MB R3M 3X8
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
